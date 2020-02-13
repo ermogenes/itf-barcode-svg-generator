@@ -20,6 +20,7 @@ PS (..)\itf-barcode-svg-generator\itfgen> dotnet run 123456789012345678901234567
 ```
 
 Generated `out.svg`:
+
 <img src="out.svg" width="640" />
 
 ## Thanks
